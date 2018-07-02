@@ -1,2 +1,4 @@
 python_train/*
-.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*-checkoutpoint.ipynb
+*.pyc

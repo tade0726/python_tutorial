@@ -57,10 +57,13 @@ Please reading ppt in files folders:
 - functools
 - itertools
 - yield from / yield
+- urllib
 
 ## 03.Python 网络操作
 
 - requests
+  - post
+  - get
 
 ## 04.Python数据库操作
 
@@ -78,4 +81,10 @@ Please reading ppt in files folders:
 
 ## 07.Python Jupyter
 
-- https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+- cell level 
+- code level
+- function level
+
+## 08.Python 数据分析
+
+- pandas

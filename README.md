@@ -9,7 +9,7 @@
 进阶: 
 - Python cookbook: https://book.douban.com/subject/26381341/
 - Python 手册: https://book.douban.com/subject/6049132/
-- 流程的 Python : https://book.douban.com/subject/27028517/
+- 流畅的 Python : https://book.douban.com/subject/27028517/
 - Python 指南: http://pythonguidecn.readthedocs.io/zh/latest/
 
 ### Python basic sytax

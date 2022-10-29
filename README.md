@@ -1,16 +1,16 @@
-# Python 基础教程
+# Python Basic tutorials
 
-## 00.Python 学习路径
+## 00.Python learning path
 
-基础: 
-- https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
-- Python 最佳实践指南: https://pythonguidecn.readthedocs.io/zh/latest/    
+101: 
+- 101 from liaoxuefeng(Chinese): https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+- Python best pratice: https://pythonguidecn.readthedocs.io/zh/latest/    
 
-进阶: 
+advanced: 
 - Python cookbook: https://book.douban.com/subject/26381341/
-- Python 手册: https://book.douban.com/subject/6049132/
-- 流畅的 Python : https://book.douban.com/subject/27028517/
-- Python 指南: http://pythonguidecn.readthedocs.io/zh/latest/
+- Python handbook: https://book.douban.com/subject/6049132/
+- Fluent Python : https://book.douban.com/subject/27028517/
+- Python Guide: http://pythonguidecn.readthedocs.io/zh/latest/
 
 ### Python basic sytax
 
@@ -25,33 +25,33 @@ Please reading ppt in files folders:
 
 
 
-## 01.Python 基本规范
+## 01.Python standard
 
 ### Python 2 vs Python 3
-- Python 2 将在 2020年停止维护
-- Python 3 在性能上更优秀，解决原本的字节编码混乱的问题
+- Python 2 will stop maintain after 2020
+- Python 3 is better in performation, solve the unicode problem once for all
 
-### Python 环境管理
+### Python env mangament
+
 - ###### pipenv: https://pythonguidecn.readthedocs.io/zh/latest/dev/virtualenvs.html
-
 - ###### conda: https://conda.io/docs/
 
-### 统一代码风格 - pep8
-- Python pep8 文档： https://www.python.org/dev/peps/pep-0008/
-- 代码风格检查，修改：https://github.com/ambv/black
-- 浅谈软件工程师的代码素养: http://wetest.qq.com/lab/view/385.html
+### code style - pep8
+- Python pep8 doc： https://www.python.org/dev/peps/pep-0008/
+- Python style checker：https://github.com/ambv/black
+- A simple guide book of code style: http://wetest.qq.com/lab/view/385.html
 
 ### IDE
-- 统一使用 Pycharm
+- prefer Pycharm
 
-### 错误信息捕获
-- Traceback， 捕获上下文
+### How to catch error
+- always use Traceback to catch / log context information
 
-### 测试
-- Pandas 性能测试： https://github.com/mm-mansour/Fast-Pandas
-- 单元测试： https://github.com/pytest-dev/pytest
+### Test
+- Pandas performance test of different apis： https://github.com/mm-mansour/Fast-Pandas
+- Unit Test lib： https://github.com/pytest-dev/pytest
 
-## 02.Python 标准库
+## 02.Python standards libs
 
 - datetime
 - functools
@@ -59,23 +59,23 @@ Please reading ppt in files folders:
 - yield from / yield
 - urllib
 
-## 03.Python 网络操作
+## 03.Python web related
 
 - requests
   - post
   - get
 
-## 04.Python数据库操作
+## 04.Python data related
 
 - sqlalchemy
 - pandas: read_sql / read_sql_table / to_sql
 
-## 05.Python 爬虫
+## 05.Python web crawler
 
 - scrapy --> heavy staff
 - Requests + lxml + bs4 --> single page
 
-## 06.Python 机器学习
+## 06.Python Machine Learning
 
 - Sklean --> please read the "sklean" folder
 
@@ -85,6 +85,6 @@ Please reading ppt in files folders:
 - code level
 - function level
 
-## 08.Python 数据分析
+## 08.Python Data Analysis
 
 - pandas
